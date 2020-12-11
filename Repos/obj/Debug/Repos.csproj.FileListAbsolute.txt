@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\obj\Debug\Repos.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\bin\Debug\Repos.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\bin\Debug\Repos.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\obj\Debug\Repos.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\obj\Debug\Repos.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\Repos\obj\Debug\Repos.csprojAssemblyReference.cache
