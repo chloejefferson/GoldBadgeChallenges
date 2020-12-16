@@ -10,6 +10,8 @@ namespace ConsoleAppKomodoClaims
     {
         static void Main(string[] args)
         {
+            var program = new KomodoClaimsUI();
+            program.Run();
         }
     }
 }
