@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\bin\Debug\ConsoleAppKomodoBadges.exe.config
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\bin\Debug\ConsoleAppKomodoBadges.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\bin\Debug\ConsoleAppKomodoBadges.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\bin\Debug\RepoKomodoBadges.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\bin\Debug\RepoKomodoBadges.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\obj\Debug\ConsoleAppKomodoBadges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\obj\Debug\ConsoleAppKomodoBadges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\obj\Debug\ConsoleAppKomodoBadges.csproj.CopyComplete
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\obj\Debug\ConsoleAppKomodoBadges.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\ConsoleAppKomodoBadges\obj\Debug\ConsoleAppKomodoBadges.pdb

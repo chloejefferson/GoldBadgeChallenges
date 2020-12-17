@@ -10,6 +10,8 @@ namespace ConsoleAppKomodoBadges
     {
         static void Main(string[] args)
         {
+            var program = new KomodoBadgesUI();
+            program.Run();
         }
     }
 }

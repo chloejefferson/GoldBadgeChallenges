@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\bin\Debug\RepoKomodoBadges.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\bin\Debug\RepoKomodoBadges.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\obj\Debug\RepoKomodoBadges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\obj\Debug\RepoKomodoBadges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\obj\Debug\RepoKomodoBadges.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\RepoKomodoBadges\obj\Debug\RepoKomodoBadges.pdb
