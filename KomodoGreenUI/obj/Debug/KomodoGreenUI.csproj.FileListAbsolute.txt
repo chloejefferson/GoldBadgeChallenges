@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\bin\Debug\KomodoGreenUI.exe.config
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\bin\Debug\KomodoGreenUI.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\bin\Debug\KomodoGreenUI.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\bin\Debug\RepoKomodoGreen.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\bin\Debug\RepoKomodoGreen.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\obj\Debug\KomodoGreenUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\obj\Debug\KomodoGreenUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\obj\Debug\KomodoGreenUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\obj\Debug\KomodoGreenUI.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreenUI\obj\Debug\KomodoGreenUI.pdb

@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\UnitTestsKomodoGreen.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\UnitTestsKomodoGreen.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\RepoKomodoGreen.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\RepoKomodoGreen.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\obj\Debug\UnitTestsKomodoGreen.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\obj\Debug\UnitTestsKomodoGreen.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\obj\Debug\UnitTestsKomodoGreen.csproj.CopyComplete
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\obj\Debug\UnitTestsKomodoGreen.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\UnitTestsKomodoGreen\obj\Debug\UnitTestsKomodoGreen.pdb
