@@ -6,9 +6,19 @@ Use github to download or clone the code to open on your computer. You should ha
 
 # Usage
 Challenge 1 - KomodoCafe: Display, create and update a restaurant menu.
+<<<<<<< HEAD
 Challenge 2 - KomodoClaim: Display, create and handle insurance claims.
 Challenge 3 - KomodoBadge: Display, create and update personnel badges for building door access.
 
+=======
+
+Challenge 2 - KomodoClaim: Display, create and handle insurance claims.
+
+Challenge 3 - KomodoBadge: Display, create and update personnel badges for building door access.
+
+Challenge 4 - KomodoOuting: Display, create and calculate company events and their associated costs.
+
+>>>>>>> 88f3865c7d54304327c24fdd3fe510bdb26fb048
 # Support
 For support, please message me on GitHub.
 
