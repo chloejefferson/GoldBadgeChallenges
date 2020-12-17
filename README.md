@@ -13,6 +13,8 @@ Challenge 3 - KomodoBadge: Display, create and update personnel badges for build
 
 Challenge 4 - KomodoOuting: Display, create and calculate company events and their associated costs.
 
+Challenge 5 - KomodoGreeting: Display, create and update customers and their associated greeting email by their customer type/status.
+
 # Support
 For support, please message me on GitHub.
 
