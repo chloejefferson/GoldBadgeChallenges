@@ -15,6 +15,8 @@ Challenge 4 - KomodoOuting: Display, create and calculate company events and the
 
 Challenge 5 - KomodoGreeting: Display, create and update customers and their associated greeting email by their customer type/status.
 
+Challenge 6 - KomodoGreen: Display, create and update lists of new cars by type. Also, create lists of cars that can be displayed, created and updated.
+
 # Support
 For support, please message me on GitHub.
 
