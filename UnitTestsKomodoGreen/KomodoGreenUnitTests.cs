@@ -68,19 +68,6 @@ namespace UnitTestsKomodoGreen
         }
 
         [TestMethod]
-        public void KomodoGreenList_AddCarToList_ShouldNotBeNul()
-        {
-            //Assert.IsNotNull(_list1.AddCarToList(_sampleListToAdd));
-        }
-
-        [TestMethod]
-        public void KomodoGreenList_RemoveCarFromList_ShouldNotBeNull()
-        {
-            //Assert.IsNotNull(_list1.RemoveCarFromList(_car1));
-            //does it need to return something? Also, not in repo? maybe doesn't count.
-        }
-
-        [TestMethod]
         public void KomodoGreenListRepo_CreateCarList_ShouldNotBeNull()
         {
             Assert.IsNotNull(_listRepo.GetCarListById(_list1.CarListId));
