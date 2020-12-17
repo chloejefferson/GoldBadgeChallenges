@@ -60,7 +60,7 @@ namespace ConsoleAppKomodoBadges
             _badgeRepo.AddABadge(newBadge);
 
             Console.WriteLine("Enter the doors you would like to make accessible for this new badge. Use ONLY A COMMA to separate each door.");
-            List<string> listOfDoors = Console.ReadLine().Split(',').ToList();
+            List<string> listOfDoors = Console.ReadLine().ToUpper().Split(',').ToList();
 
             newBadge.Doors = listOfDoors;
         }
@@ -83,19 +83,40 @@ namespace ConsoleAppKomodoBadges
             {
                 case "1":
                     Console.WriteLine("Enter the door you'd like to remove.");
-                    string removeADoor = Console.ReadLine();
-                    _badgeRepo.RemoveADoor(originalBadgeId, removeADoor);
-                    Console.WriteLine($"The door {removeADoor} has been successfully removed from badge ID {originalBadgeId}.");
+                    string removeADoor = Console.ReadLine().ToUpper();
+                    bool doorWasRemoved =_badgeRepo.RemoveADoor(originalBadgeId, removeADoor);
+                    if (doorWasRemoved)
+                    {
+                        Console.WriteLine($"The door {removeADoor} has been successfully removed from badge ID {originalBadgeId}.");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"The door {removeADoor} could not be removed from badge ID {originalBadgeId}.");
+                    }
                     break;
                 case "2":
-                    _badgeRepo.RemoveAllDoors(originalBadgeId);
-                    Console.WriteLine($"All doors have been successfully removed from {originalBadgeId}.");
+                    bool doorsWereRemoved = _badgeRepo.RemoveAllDoors(originalBadgeId);
+                    if (doorsWereRemoved)
+                    {
+                        Console.WriteLine($"All doors have been successfully removed from {originalBadgeId}.");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"The doors could not be removed from {originalBadgeId}.");
+                    }
                     break;
                 case "3":
                     Console.WriteLine("Enter the door you'd like to add.");
-                    string addADoor = Console.ReadLine().ToLower();
-                    _badgeRepo.AddADoor(originalBadgeId, addADoor);
-                    Console.WriteLine($"The door {addADoor} has been successfully removed from badge ID {originalBadgeId}.");
+                    string addADoor = Console.ReadLine().ToUpper();
+                    bool doorWasAdded = _badgeRepo.AddADoor(originalBadgeId, addADoor);
+                    if (doorWasAdded)
+                    {
+                        Console.WriteLine($"The door {addADoor} has been successfully added to badge ID {originalBadgeId}.");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"The door {addADoor} could not be added to badge ID {originalBadgeId}.");
+                    }
                     break;
                 default:
                     Console.WriteLine("I didn't understand your entry. You'll be returned to the main menu.");
