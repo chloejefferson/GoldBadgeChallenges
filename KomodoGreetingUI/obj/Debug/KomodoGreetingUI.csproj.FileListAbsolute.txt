@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\obj\Debug\KomodoGreetingUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\obj\Debug\KomodoGreetingUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\bin\Debug\KomodoGreetingUI.exe.config
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\bin\Debug\KomodoGreetingUI.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\bin\Debug\KomodoGreetingUI.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\bin\Debug\RepoKomodoGreeting.dll
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\bin\Debug\RepoKomodoGreeting.pdb
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\obj\Debug\KomodoGreetingUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\obj\Debug\KomodoGreetingUI.exe
+C:\ElevenFiftyProjects\1.GoldBadge\Final Projects\CSharp\GoldBadgeChallenges\KomodoGreetingUI\obj\Debug\KomodoGreetingUI.pdb
